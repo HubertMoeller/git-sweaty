@@ -7001,6 +7001,24 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/17886668589",
       "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17891195152",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-29",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17899765368",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -12984,6 +13002,15 @@
           "distance": 100672.0,
           "elevation_gain": 433.0,
           "moving_time": 11666.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17891195152"
+          ],
+          "count": 1,
+          "distance": 26974.7,
+          "elevation_gain": 165.0,
+          "moving_time": 3718.0
         }
       },
       "Run": {
@@ -13283,6 +13310,15 @@
           "distance": 7046.6,
           "elevation_gain": 80.0,
           "moving_time": 2198.0
+        },
+        "2026-03-29": {
+          "activity_ids": [
+            "17899765368"
+          ],
+          "count": 1,
+          "distance": 20145.5,
+          "elevation_gain": 193.0,
+          "moving_time": 6468.0
         }
       },
       "Swim": {
@@ -13853,7 +13889,7 @@
       }
     }
   },
-  "generated_at": "2026-03-28T15:31:58.772250+00:00",
+  "generated_at": "2026-03-29T15:33:16.686410+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
