@@ -7055,6 +7055,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17951306452",
       "year": 2026
+    },
+    {
+      "date": "2026-04-03",
+      "hour": 10,
+      "name": "Morgenaktivitet",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/17959436412",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13957,11 +13966,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-04-03": {
+          "activity_ids": [
+            "17959436412"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3900.0
         }
       }
     }
   },
-  "generated_at": "2026-04-02T16:01:39.641659+00:00",
+  "generated_at": "2026-04-03T15:39:24.464484+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
