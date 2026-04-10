@@ -7136,6 +7136,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18042088075",
       "year": 2026
+    },
+    {
+      "date": "2026-04-10",
+      "hour": 13,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18053333531",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13655,6 +13664,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2393.0
+        },
+        "2026-04-10": {
+          "activity_ids": [
+            "18053333531"
+          ],
+          "count": 1,
+          "distance": 2150.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2611.0
         }
       },
       "VirtualRide": {
@@ -14115,7 +14133,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:18:48.482722+00:00",
+  "generated_at": "2026-04-10T15:54:47.458281+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
