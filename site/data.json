@@ -7230,7 +7230,7 @@
     {
       "date": "2026-04-17",
       "hour": 16,
-      "name": "Afternoon Run",
+      "name": "Copenhagen Student Run\ud83e\udd49",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18146336497",
@@ -14313,7 +14313,7 @@
       }
     }
   },
-  "generated_at": "2026-04-17T16:02:08.299227+00:00",
+  "generated_at": "2026-04-18T15:38:22.335371+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
