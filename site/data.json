@@ -7361,6 +7361,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18279739511",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 9,
+      "name": "Morning Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18288956788",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14051,6 +14060,15 @@
           "distance": 2200.0,
           "elevation_gain": 0.0,
           "moving_time": 2781.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18288956788"
+          ],
+          "count": 1,
+          "distance": 2200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2351.0
         }
       },
       "VirtualRide": {
@@ -14565,7 +14583,7 @@
       }
     }
   },
-  "generated_at": "2026-04-27T16:27:03.337357+00:00",
+  "generated_at": "2026-04-28T16:52:12.465479+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
