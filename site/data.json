@@ -7487,6 +7487,15 @@
       "type": "Swim",
       "url": "https://www.strava.com/activities/18474682953",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18480435838",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13633,6 +13642,15 @@
           "distance": 49270.9,
           "elevation_gain": 321.0,
           "moving_time": 6160.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18480435838"
+          ],
+          "count": 1,
+          "distance": 27604.8,
+          "elevation_gain": 149.0,
+          "moving_time": 3615.0
         }
       },
       "Run": {
@@ -14817,7 +14835,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:12:00.113797+00:00",
+  "generated_at": "2026-05-13T17:17:07.870154+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
