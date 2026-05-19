@@ -7559,6 +7559,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18556580341",
       "year": 2026
+    },
+    {
+      "date": "2026-05-18",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18557847232",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 11,
+      "name": "Lunch Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18565614990",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18571160071",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13732,6 +13759,24 @@
           "distance": 116156.0,
           "elevation_gain": 497.0,
           "moving_time": 12331.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18557847232"
+          ],
+          "count": 1,
+          "distance": 27761.7,
+          "elevation_gain": 141.0,
+          "moving_time": 3572.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18571160071"
+          ],
+          "count": 1,
+          "distance": 41547.2,
+          "elevation_gain": 253.0,
+          "moving_time": 5312.0
         }
       },
       "Run": {
@@ -14402,6 +14447,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2502.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18565614990"
+          ],
+          "count": 1,
+          "distance": 2050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2541.0
         }
       },
       "VirtualRide": {
@@ -14961,7 +15015,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T17:29:55.164837+00:00",
+  "generated_at": "2026-05-19T17:38:21.772298+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
