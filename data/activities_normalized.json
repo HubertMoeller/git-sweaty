@@ -11165,5 +11165,18 @@
     "start_date_local": "2026-05-29T13:38:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 1550.0,
+    "elevation_gain": 0.0,
+    "id": "18714590000",
+    "moving_time": 1666.0,
+    "name": "Sv\u00f8mning om eftermiddagen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-30T13:28:54Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
