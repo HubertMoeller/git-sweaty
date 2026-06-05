@@ -11204,5 +11204,31 @@
     "start_date_local": "2026-06-01T17:29:13Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 6574.2,
+    "elevation_gain": 40.0,
+    "id": "18787967545",
+    "moving_time": 2034.0,
+    "name": "L\u00f8b om aftenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-04T20:18:50Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-05",
+    "distance": 566.8,
+    "elevation_gain": 2.3,
+    "id": "18794672131",
+    "moving_time": 741.0,
+    "name": "Sv\u00f8mning til frokost",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-06-05T12:03:38Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
