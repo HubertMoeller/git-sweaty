@@ -11256,5 +11256,31 @@
     "start_date_local": "2026-06-06T09:18:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 10384.5,
+    "elevation_gain": 86.0,
+    "id": "18829026198",
+    "moving_time": 3385.0,
+    "name": "L\u00f8b om aftenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T20:24:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18833689567",
+    "moving_time": 3600.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T08:30:00Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
