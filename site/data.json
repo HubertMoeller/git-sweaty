@@ -7829,6 +7829,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18855041917",
       "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18868854179",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 10,
+      "name": "Sv\u00f8mning om morgenen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18875644289",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14083,6 +14101,15 @@
           "distance": 137661.0,
           "elevation_gain": 787.0,
           "moving_time": 17559.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18868854179"
+          ],
+          "count": 1,
+          "distance": 42595.5,
+          "elevation_gain": 251.0,
+          "moving_time": 5275.0
         }
       },
       "Run": {
@@ -14906,6 +14933,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2410.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18875644289"
+          ],
+          "count": 1,
+          "distance": 2050.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2574.0
         }
       },
       "VirtualRide": {
@@ -15501,7 +15537,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:57:15.186192+00:00",
+  "generated_at": "2026-06-11T18:13:58.736510+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
