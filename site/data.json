@@ -7910,6 +7910,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18973712795",
       "year": 2026
+    },
+    {
+      "date": "2026-06-19",
+      "hour": 11,
+      "name": "Sv\u00f8mning til frokost",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18982339507",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15052,6 +15061,15 @@
           "distance": 1800.0,
           "elevation_gain": 0.0,
           "moving_time": 2280.0
+        },
+        "2026-06-19": {
+          "activity_ids": [
+            "18982339507"
+          ],
+          "count": 1,
+          "distance": 2097.7,
+          "elevation_gain": 5.0,
+          "moving_time": 2739.0
         }
       },
       "VirtualRide": {
@@ -15647,7 +15665,7 @@
       }
     }
   },
-  "generated_at": "2026-06-18T17:58:56.347667+00:00",
+  "generated_at": "2026-06-19T17:19:50.746002+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
