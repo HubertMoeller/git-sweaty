@@ -7964,6 +7964,33 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19026443065",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 19,
+      "name": "Evening Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19039037533",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 7,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19045805975",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-24",
+      "hour": 9,
+      "name": "L\u00f8b om morgenen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19046233812",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -14263,6 +14290,15 @@
           "distance": 27046.4,
           "elevation_gain": 155.0,
           "moving_time": 3631.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19045805975"
+          ],
+          "count": 1,
+          "distance": 73679.3,
+          "elevation_gain": 380.0,
+          "moving_time": 8404.0
         }
       },
       "Run": {
@@ -14816,6 +14852,15 @@
           "distance": 10630.0,
           "elevation_gain": 62.0,
           "moving_time": 3314.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19046233812"
+          ],
+          "count": 1,
+          "distance": 8102.6,
+          "elevation_gain": 48.0,
+          "moving_time": 2519.0
         }
       },
       "Swim": {
@@ -15151,6 +15196,15 @@
           "distance": 2097.7,
           "elevation_gain": 5.0,
           "moving_time": 2739.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19039037533"
+          ],
+          "count": 1,
+          "distance": 1294.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1857.0
         }
       },
       "VirtualRide": {
@@ -15755,7 +15809,7 @@
       }
     }
   },
-  "generated_at": "2026-06-23T17:17:48.561808+00:00",
+  "generated_at": "2026-06-24T17:04:39.665661+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
