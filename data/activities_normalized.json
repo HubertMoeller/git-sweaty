@@ -11594,5 +11594,18 @@
     "start_date_local": "2026-06-27T14:25:52Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 12083.0,
+    "elevation_gain": 74.0,
+    "id": "19094751870",
+    "moving_time": 3814.0,
+    "name": "L\u00f8b om morgenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T09:11:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
