@@ -11854,5 +11854,18 @@
     "start_date_local": "2026-07-17T14:10:41Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 3894.1,
+    "elevation_gain": 7.2,
+    "id": "19362043107",
+    "moving_time": 5330.0,
+    "name": "Sv\u00f8mning til frokost",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-07-18T12:20:29Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
