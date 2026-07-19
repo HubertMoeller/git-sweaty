@@ -11867,5 +11867,31 @@
     "start_date_local": "2026-07-18T12:20:29Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 182972.0,
+    "elevation_gain": 988.0,
+    "id": "19377740892",
+    "moving_time": 21688.0,
+    "name": "Cykeltur om morgenen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-19T10:12:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-19",
+    "distance": 7084.2,
+    "elevation_gain": 23.0,
+    "id": "19378445904",
+    "moving_time": 2185.0,
+    "name": "L\u00f8b om eftermiddagen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-19T16:47:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
