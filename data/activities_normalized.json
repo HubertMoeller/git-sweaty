@@ -11945,5 +11945,31 @@
     "start_date_local": "2026-07-23T11:44:00Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19435410345",
+    "moving_time": 3600.0,
+    "name": "Eftermiddagsaktivitet",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-23T17:58:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 22103.0,
+    "elevation_gain": 181.0,
+    "id": "19443852862",
+    "moving_time": 6954.0,
+    "name": "L\u00f8b til frokost",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T11:02:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
