@@ -8288,6 +8288,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19443852862",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 10,
+      "name": "Sv\u00f8mning om morgenen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19456813373",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15773,6 +15782,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2561.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19456813373"
+          ],
+          "count": 1,
+          "distance": 3816.6,
+          "elevation_gain": 4.9,
+          "moving_time": 5240.0
         }
       },
       "VirtualRide": {
@@ -16395,7 +16413,7 @@
       }
     }
   },
-  "generated_at": "2026-07-24T16:42:18.339226+00:00",
+  "generated_at": "2026-07-25T16:04:07.072900+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
