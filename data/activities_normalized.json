@@ -12088,5 +12088,31 @@
     "start_date_local": "2026-08-04T17:05:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 59144.7,
+    "elevation_gain": 416.0,
+    "id": "19627975498",
+    "moving_time": 7345.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-06T14:34:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-06",
+    "distance": 10083.6,
+    "elevation_gain": 69.0,
+    "id": "19628803460",
+    "moving_time": 3036.0,
+    "name": "L\u00f8b om eftermiddagen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-06T16:58:01Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
