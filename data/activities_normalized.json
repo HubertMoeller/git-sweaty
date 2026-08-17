@@ -12205,5 +12205,44 @@
     "start_date_local": "2026-08-15T11:13:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 3756.7,
+    "elevation_gain": 5.1,
+    "id": "19769529759",
+    "moving_time": 4715.0,
+    "name": "Morning Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-08-16T07:27:23Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 42382.5,
+    "elevation_gain": 208.0,
+    "id": "19769537072",
+    "moving_time": 14301.0,
+    "name": "Ironman K\u00f8benhavn",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-16T14:28:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-16",
+    "distance": 177622.0,
+    "elevation_gain": 816.0,
+    "id": "19770332048",
+    "moving_time": 19716.0,
+    "name": "Cykeltur om morgenen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-16T08:55:13Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
