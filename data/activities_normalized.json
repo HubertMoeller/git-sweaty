@@ -12296,5 +12296,18 @@
     "start_date_local": "2026-08-29T13:16:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-04",
+    "distance": 10099.3,
+    "elevation_gain": 82.0,
+    "id": "20030991300",
+    "moving_time": 3174.0,
+    "name": "L\u00f8b til frokost",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-04T11:00:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
