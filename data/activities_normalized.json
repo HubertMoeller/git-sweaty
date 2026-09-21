@@ -12465,5 +12465,18 @@
     "start_date_local": "2026-09-20T09:20:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-09-21",
+    "distance": 4883.2,
+    "elevation_gain": 43.0,
+    "id": "20269270084",
+    "moving_time": 1531.0,
+    "name": "L\u00f8b om eftermiddagen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-21T17:44:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
