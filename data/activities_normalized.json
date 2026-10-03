@@ -12608,5 +12608,18 @@
     "start_date_local": "2026-10-01T13:44:40Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 9245.0,
+    "elevation_gain": 52.0,
+    "id": "20429178613",
+    "moving_time": 2930.0,
+    "name": "L\u00f8b om morgenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-03T09:40:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
