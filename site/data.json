@@ -8756,6 +8756,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20447443406",
       "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20476270771",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15326,6 +15335,15 @@
           "distance": 35348.3,
           "elevation_gain": 220.0,
           "moving_time": 4344.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "20476270771"
+          ],
+          "count": 1,
+          "distance": 56200.8,
+          "elevation_gain": 381.0,
+          "moving_time": 7200.0
         }
       },
       "Run": {
@@ -17323,7 +17341,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T21:50:54.991156+00:00",
+  "generated_at": "2026-10-06T19:59:32.692842+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
