@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T20:25:41.206951+00:00",
+  "generated_at": "2026-10-08T20:31:07.385188+00:00",
   "years": {
     "2023": {
       "Ride": {
@@ -7437,6 +7437,15 @@
           "distance": 6041.4,
           "elevation_gain": 43.0,
           "moving_time": 2226.0
+        },
+        "2026-10-08": {
+          "activity_ids": [
+            "20502600915"
+          ],
+          "count": 1,
+          "distance": 11381.2,
+          "elevation_gain": 93.0,
+          "moving_time": 3576.0
         }
       },
       "Swim": {
