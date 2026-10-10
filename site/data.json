@@ -8783,6 +8783,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20502600915",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 9,
+      "name": "Morgenaktivitet",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/20525541168",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 16,
+      "name": "L\u00f8b om eftermiddagen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20532018148",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16231,6 +16249,15 @@
           "distance": 11381.2,
           "elevation_gain": 93.0,
           "moving_time": 3576.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20532018148"
+          ],
+          "count": 1,
+          "distance": 10001.6,
+          "elevation_gain": 108.0,
+          "moving_time": 3816.0
         }
       },
       "Swim": {
@@ -17373,11 +17400,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5400.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20525541168"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4800.0
         }
       }
     }
   },
-  "generated_at": "2026-10-09T20:00:25.318766+00:00",
+  "generated_at": "2026-10-10T19:08:14.025676+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
