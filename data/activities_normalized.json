@@ -12712,5 +12712,18 @@
     "start_date_local": "2026-10-10T16:21:45Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 29501.4,
+    "elevation_gain": 232.0,
+    "id": "20540262708",
+    "moving_time": 4410.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-11T11:54:29Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
