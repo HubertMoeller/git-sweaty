@@ -12777,5 +12777,18 @@
     "start_date_local": "2026-10-17T10:00:18Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-18",
+    "distance": 68040.8,
+    "elevation_gain": 519.0,
+    "id": "20636634885",
+    "moving_time": 10579.0,
+    "name": "Cykeltur om eftermiddagen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-18T13:41:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
