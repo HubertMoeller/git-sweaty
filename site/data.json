@@ -8864,6 +8864,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20649613692",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 14,
+      "name": "Sv\u00f8mning om eftermiddagen",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20661157570",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16863,6 +16872,15 @@
           "distance": 1200.0,
           "elevation_gain": 0.0,
           "moving_time": 1500.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20661157570"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       },
       "VirtualRide": {
@@ -17539,7 +17557,7 @@
       }
     }
   },
-  "generated_at": "2026-10-19T20:23:42.038058+00:00",
+  "generated_at": "2026-10-20T18:57:09.596203+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
