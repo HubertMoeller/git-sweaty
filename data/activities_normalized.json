@@ -12896,6 +12896,19 @@
     "year": 2026
   },
   {
+    "date": "2026-11-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20859619579",
+    "moving_time": 4800.0,
+    "name": "Morgenaktivitet",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-11-01T10:52:48Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
     "date": "2026-11-02",
     "distance": 4451.7,
     "elevation_gain": 31.0,
@@ -12905,6 +12918,32 @@
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-11-02T18:03:01Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "20859628095",
+    "moving_time": 2400.0,
+    "name": "Sv\u00f8mning om aftenen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-04T18:13:49Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 6025.6,
+    "elevation_gain": 38.0,
+    "id": "20860226116",
+    "moving_time": 1831.0,
+    "name": "L\u00f8b om aftenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-04T19:04:54Z",
     "type": "Run",
     "year": 2026
   }
