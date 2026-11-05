@@ -12946,5 +12946,18 @@
     "start_date_local": "2026-11-04T19:04:54Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-05",
+    "distance": 51272.1,
+    "elevation_gain": 460.0,
+    "id": "20870794269",
+    "moving_time": 7793.0,
+    "name": "Cykeltur om eftermiddagen",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-11-05T13:35:55Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
