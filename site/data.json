@@ -8981,6 +8981,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20894480210",
       "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 15,
+      "name": "Zwift - 220W",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20910859952",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-08",
+      "hour": 17,
+      "name": "L\u00f8b om eftermiddagen",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20911583422",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -16539,6 +16557,15 @@
           "distance": 6025.6,
           "elevation_gain": 38.0,
           "moving_time": 1831.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20911583422"
+          ],
+          "count": 1,
+          "distance": 6944.5,
+          "elevation_gain": 51.0,
+          "moving_time": 2480.0
         }
       },
       "Swim": {
@@ -17292,6 +17319,15 @@
           "distance": 17972.9,
           "elevation_gain": 85.0,
           "moving_time": 1657.0
+        },
+        "2026-11-08": {
+          "activity_ids": [
+            "20910859952"
+          ],
+          "count": 1,
+          "distance": 50859.4,
+          "elevation_gain": 663.0,
+          "moving_time": 5425.0
         }
       },
       "WeightTraining": {
@@ -17775,7 +17811,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T19:15:59.156913+00:00",
+  "generated_at": "2026-11-08T19:21:23.701371+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",

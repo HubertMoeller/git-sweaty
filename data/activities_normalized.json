@@ -12972,5 +12972,31 @@
     "start_date_local": "2026-11-07T11:40:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 50859.4,
+    "elevation_gain": 663.0,
+    "id": "20910859952",
+    "moving_time": 5425.0,
+    "name": "Zwift - 220W",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-08T15:37:53Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-08",
+    "distance": 6944.5,
+    "elevation_gain": 51.0,
+    "id": "20911583422",
+    "moving_time": 2480.0,
+    "name": "L\u00f8b om eftermiddagen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-08T17:17:46Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
