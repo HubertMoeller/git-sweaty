@@ -13011,5 +13011,18 @@
     "start_date_local": "2026-11-09T19:04:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 2100.0,
+    "elevation_gain": 0.0,
+    "id": "20931540204",
+    "moving_time": 2640.0,
+    "name": "Sv\u00f8mning om morgenen",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-11-10T09:18:00Z",
+    "type": "Swim",
+    "year": 2026
   }
 ]
