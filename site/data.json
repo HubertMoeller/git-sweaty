@@ -9053,6 +9053,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20986532747",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 9,
+      "name": "Cykeltur om morgenen",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20996020147",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15670,6 +15679,15 @@
           "distance": 68040.8,
           "elevation_gain": 519.0,
           "moving_time": 10579.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "20996020147"
+          ],
+          "count": 1,
+          "distance": 65762.8,
+          "elevation_gain": 529.0,
+          "moving_time": 9926.0
         }
       },
       "Run": {
@@ -17919,7 +17937,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:44:34.440003+00:00",
+  "generated_at": "2026-11-15T20:10:12.119162+00:00",
   "other_bucket": "OtherSports",
   "repo": "HubertMoeller/git-sweaty",
   "source": "strava",
