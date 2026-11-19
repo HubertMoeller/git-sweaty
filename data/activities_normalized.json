@@ -13115,5 +13115,18 @@
     "start_date_local": "2026-11-17T09:11:33Z",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-11-19",
+    "distance": 30197.8,
+    "elevation_gain": 187.0,
+    "id": "21047745055",
+    "moving_time": 4658.0,
+    "name": "Cykeltur om eftermiddagen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-19T14:45:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
