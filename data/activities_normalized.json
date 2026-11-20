@@ -13128,5 +13128,18 @@
     "start_date_local": "2026-11-19T14:45:33Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-20",
+    "distance": 6637.0,
+    "elevation_gain": 54.0,
+    "id": "21061439468",
+    "moving_time": 2107.0,
+    "name": "L\u00f8b om aftenen",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-20T18:20:56Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
