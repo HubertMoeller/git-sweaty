@@ -13154,5 +13154,18 @@
     "start_date_local": "2026-11-21T16:29:11Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-24",
+    "distance": 37944.6,
+    "elevation_gain": 342.0,
+    "id": "21105352192",
+    "moving_time": 6014.0,
+    "name": "Cykeltur om morgenen",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-24T09:57:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
